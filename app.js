@@ -26,7 +26,7 @@ function createEmployee () {
         },
         {
             type: "input",
-            meggage: "what is your name?",
+            message: "what is your name?",
             name: "name"
         },
         {
