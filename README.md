@@ -10,9 +10,9 @@
 you cab choose between 3 different roles and options for each role.
   
   ## Installation
-  fork the repo 
-npm i 
-node index.js 
+
+
+
 
   ## Usage
   open in the terminal run npm i, node index then follow the prompts
