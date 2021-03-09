@@ -20,7 +20,8 @@ you cab choose between 3 different roles and options for each role.
   ## Example
   This is a video of the finished application
   video link
-  ![demo](https://youtu.be/q4WK-Kp4Qz4F)
+  
+  https://youtu.be/q4WK-Kp4Qz4F
 
   ## Questions
   Please reach out to me at:
